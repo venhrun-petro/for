@@ -1,0 +1,19 @@
+---
+label: weqe
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumb_img_path
+  label: thumb_img_path
+- type: text
+  name: layout
+  label: layout
