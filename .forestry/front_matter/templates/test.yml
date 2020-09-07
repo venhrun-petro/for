@@ -16,3 +16,5 @@ fields:
   config: {}
   label: sadsad
   description: sads dield
+pages:
+- content/about-3.md
