@@ -1,4 +1,18 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: data
+  type: datetime
+  label: data
+  description: sdsad
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: sadsad
+  type: field_group
+  config: {}
+  label: sadsad
+  description: sads dield
