@@ -1,4 +1,9 @@
 ---
 label: img2
 hide_body: false
-fields: []
+fields:
+- name: img
+  type: image_gallery
+  config: {}
+  label: img
+  description: sadsad
