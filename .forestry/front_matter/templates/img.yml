@@ -1,4 +1,10 @@
 ---
 label: img
 hide_body: false
-fields: []
+fields:
+- name: img
+  type: file
+  config:
+    maxSize: 64
+  label: img
+  description: sadsad
