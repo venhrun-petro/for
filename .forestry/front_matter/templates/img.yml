@@ -8,3 +8,5 @@ fields:
     maxSize: 64
   label: img
   description: sadsad
+pages:
+- content/img.md
